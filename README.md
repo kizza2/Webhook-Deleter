@@ -22,7 +22,7 @@
 -----
 
 ### <p align="center">📋 Examples 📋</p><br><br>
-<p align="center">If you need help, <a href="https://youtube.com/">click here for a tuto</p>
+<p align="center">If you need help, <a href="https://youtu.be/Vc7jYi42MY8">click here for a tuto</p>
 <br>
 
 
